@@ -7,7 +7,7 @@ Armenian pixel font made using [bitfontmaker2](https://www.pentacom.jp/pentacom/
 
 ## Import
 
-You can import the font into bitfontmaker2 with the .txt file.
+You can import the font into bitfontmaker2 using the .txt file.
 
 ## Versions
 
